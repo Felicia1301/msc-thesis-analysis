@@ -30,9 +30,6 @@ Cardiac dynamics were analyzed using single-trial linear mixed-effects models ac
 - `data/`  
   Not included due to data protection regulations.
 
-- `outputs/`  
-  Generated automatically when running the scripts.
-
 ---
 
 ## Reproducibility Notes
